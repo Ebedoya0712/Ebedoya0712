@@ -22,21 +22,14 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 <hr>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="https://ossinsight.io/explore/">Programador Web Fullstack</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="https://ossinsight.io/collections/open-source-database">Programador Freelance</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Cientifico de Datos en Python</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Programador Frontend</a>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
-  •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <a href="https://ossinsight.io/collections/open-source-database">Programador Backend</a>
+  
 </h3>
