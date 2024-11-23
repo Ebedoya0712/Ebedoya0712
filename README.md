@@ -81,7 +81,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 
 <h1>
 	<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  Connect With Me
+  Contactame
   <a target="_blank">
   </a>
 </h1>
