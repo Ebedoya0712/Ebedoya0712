@@ -48,7 +48,8 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 - :thinking: Estoy interesado en conseguir `Nuevas oportunidades de Trabajo`, este es mi [Curriculum](https://drive.google.com/file/d/1xPZnQaE6PlXHN8ek9TN20qSshYcz6sEs/view).
 <br>
 
-<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 <!--tech stack icons-->
 <p align="left">
   <a href="https://skillicons.dev">
@@ -56,8 +57,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
   </a>
 </p>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
-<br>
+
 
 
 
