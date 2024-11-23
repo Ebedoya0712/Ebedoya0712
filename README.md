@@ -48,3 +48,15 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 - :thinking: Estoy interesado en conseguir `Nuevas oportunidades de Trabajo`, este es mi [Curriculum](https://drive.google.com/file/d/1xPZnQaE6PlXHN8ek9TN20qSshYcz6sEs/view).
 <br>
 
+<h2 >Tecnologías conocidas👨🏻‍💻</h2>
+<!--tech stack icons-->
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vue,vuetify,sass,git,github,gitlab,npm,nuxtjs,postgres,supabase,tailwind,ts,laravel,php,py,html,css,js,mysql,docker,postman,vscode,&perline=12" />
+  </a>
+</p>
+
+<p align="right"> <h3>Vistas del Perfil:</h3> <img src="https://komarev.com/ghpvc/?username=EliBedoya07-pw&label=Profile%20views&color=0e75b6&style=flat"
+    alt="adam-pw" /> 
+  </p>
+
