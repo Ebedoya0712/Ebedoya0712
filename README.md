@@ -68,7 +68,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 </p>
 
 <br>
-<h1>Mis Proyectos! 🎨</h1>
+<h1>🎨 Mis Proyectos! </h1>
 <div>
   <p>
     <a href="https://github.com/Ebedoya0712/BotRamsey">
