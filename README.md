@@ -35,7 +35,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 </h3>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi:
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
@@ -48,7 +48,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 - :thinking: Estoy interesado en conseguir `Nuevas oportunidades de Trabajo`, este es mi [Curriculum](https://drive.google.com/file/d/1xPZnQaE6PlXHN8ek9TN20qSshYcz6sEs/view).
 <br>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Habilidades</b>
 <br>
 <!--tech stack icons-->
 <p align="left">
@@ -57,7 +57,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
   </a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Mis estadisticas de Github: </b>
 <br>
 
 <p align="center">
@@ -68,7 +68,7 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 </p>
 
 <br>
-<h1>🎨 Mis Proyectos! </h1>
+<h1>🎨 Mis Proyectos: </h1>
 <div>
   <p>
     <a href="https://github.com/Ebedoya0712/BotRamsey">
@@ -81,8 +81,9 @@ Hola mucho gusto, mi nombre es Eliecer Bedoya!
 
 <h1>
 	<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px" style="max-width:100%;">
-  Contactame
+  Contactame:
 
+<br>
   <p align="left">
   <a href="https://www.linkedin.com/in/eliecer-bedoya-carrero-488440279/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
